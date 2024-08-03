@@ -1,0 +1,4 @@
+.venv
+serv00_keep_live.log
+pipfile
+servers.json

@@ -1,0 +1,22 @@
+{
+  "ding_info": {
+    "secret": "xxxxx",
+    "access_token": "xxxxx"
+  },
+  "servers": {
+    "serv01": {
+      "connect": false,
+      "user": "name1",
+      "host": "s7.serv00.com",
+      "port": 22,
+      "pwd": "xxxx"
+    },
+    "serv02": {
+      "connect": true,
+      "user": "name2",
+      "host": "s8.serv00.com",
+      "port": 22,
+      "pwd": "xxxx"
+    }
+  }
+}
